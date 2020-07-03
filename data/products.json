@@ -1,0 +1,32 @@
+{
+    "1": {
+        "name": "CBD 500 mg Orange Flavor Tincture",
+        "img": "prod1.png",
+        "price": "$49.99 USD"
+    },
+    "2": {
+        "name": "Black ICE CBD Muscle Rub 200 mg",
+        "img": "prod2.png",
+        "price": "$49.99 USD"
+    },
+    "3": {
+        "name": "CBD+Curcumin Coffee 750 mg",
+        "img": "prod3.png",
+        "price": "$79.99 USD"
+    },
+    "4": {
+        "name": "CBD 250 mg Orange Flavor Tincture",
+        "img": "prod1.png",
+        "price": "$24.99 USD"
+    },
+    "5": {
+        "name": "Black ICE CBD Muscle Rub 100 mg",
+        "img": "prod2.png",
+        "price": "$24.99 USD"
+    },
+    "6": {
+        "name": "CBD+Curcumin Coffee 500 mg",
+        "img": "prod3.png",
+        "price": "$59.99 USD"
+    }
+}
