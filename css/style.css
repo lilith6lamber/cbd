@@ -220,6 +220,7 @@ header .intro_wrap .btn-shopping .start {
 header .intro_wrap .btn-shopping .btnline {
   position: absolute;
   width: 45px;
+  right: 35px;
   height: 2px;
   background-color: #ffffff;
   top: 50%;
