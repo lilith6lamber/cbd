@@ -99,7 +99,8 @@ $(document).ready(function () {
             },
             hideClass: {
                 'popup': 'animate__animated animate__fadeOut animate__faster'
-            }
+            },
+            scrollbarPadding: false
         });
     });
 
@@ -120,7 +121,8 @@ $(document).ready(function () {
             },
             hideClass: {
                 'popup': 'animate__animated animate__fadeOut animate__faster'
-            }
+            },
+            scrollbarPadding: false
         });
 
 
